@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2019 13:12:35 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://example.org/post/markdown/</link>
+      <pubDate>Thu, 29 Aug 2019 13:12:35 +0700</pubDate>
+      
+      <guid>http://example.org/post/markdown/</guid>
+      <description>Headings use # for header like &amp;lt;h&amp;gt; in html use === or --- for horizontal line like &amp;lt;hr&amp;gt; in html  examples
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A First Level Header A Second Level Header Typo format text with use single * , _ Italic use double ** , __ for bold  This is paragraph
+This is another paragraph
+This text will be italic This will also be italic</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/post/second/</link>
+      <pubDate>Thu, 29 Aug 2019 11:43:13 +0700</pubDate>
+      
+      <guid>http://example.org/post/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Thu, 29 Aug 2019 11:12:24 +0700</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description> Hello Hi  Apple Banana Orange  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 29 Aug 2019 11:11:49 +0700</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description> Bundit Wisedphanit Blog </description>
+    </item>
+    
+  </channel>
+</rss>
