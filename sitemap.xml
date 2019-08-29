@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/markdown/</loc>
+    <loc>/post/markdown/</loc>
     <lastmod>2019-08-29T13:12:35+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-08-29T13:12:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-29T13:12:35+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/second/</loc>
+    <loc>/post/</loc>
+    <lastmod>2019-08-29T13:12:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/second/</loc>
     <lastmod>2019-08-29T11:43:13+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/first/</loc>
+    <loc>/post/first/</loc>
     <lastmod>2019-08-29T11:12:24+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-08-29T11:11:49+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
