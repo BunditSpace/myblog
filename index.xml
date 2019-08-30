@@ -6,10 +6,19 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2019 13:12:35 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 14:31:16 +0700</lastBuildDate>
     
 	<atom:link href="https://bunditspace.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stack</title>
+      <link>https://bunditspace.github.io/myblog/post/stack/</link>
+      <pubDate>Fri, 30 Aug 2019 14:31:16 +0700</pubDate>
+      
+      <guid>https://bunditspace.github.io/myblog/post/stack/</guid>
+      <description>Programing Language # Backend - Java [Web] - asp.net C# VB [Web, Console, Winform] - Php [Web] # Frontend - java script vanila, jquery, vuejs  Database - MySQL - Oracle - Postgresql  Version Control - SVN - TFS - Git  Framework * ORM - Hibernate (java) - LLBLgen, Entity Framework (C#) * UI - Telerik UI * Report - Telerik Report (C#) - Jasper Report (Java) * Web Framework - Codeigniter (Php) - Spring, wicket, ZK (Java) - ASP.</description>
+    </item>
     
     <item>
       <title>Markdown</title>
